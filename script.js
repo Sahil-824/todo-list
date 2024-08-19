@@ -11,3 +11,8 @@ addTaskBtn.addEventListener('click', function() {
         taskInput.value = '';
     }
 });
+
+
+function sayHello(){
+    console.log("hello")
+}
